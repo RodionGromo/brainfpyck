@@ -1,0 +1,16 @@
+add
+loop start
+	right
+	in
+	right
+		set >
+		out
+		set 32
+		out
+	left
+		out
+	right
+		set \n
+		out
+	left
+loop end
